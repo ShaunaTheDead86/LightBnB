@@ -41,5 +41,5 @@ $(() => {
     views_manager.show('listings');
     return false;
   });
-      
+
 });
